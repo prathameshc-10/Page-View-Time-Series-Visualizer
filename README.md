@@ -58,4 +58,3 @@ The charts are saved as `line_plot.png`, `bar_plot.png`, and `box_plot.png`.
 python -m unittest test_module.py
 ```
 
-For a freeCodeCamp submission, also run the official `test_module.py` from the starter repository; the tests included here only verify that the chart functions run and save their images.
